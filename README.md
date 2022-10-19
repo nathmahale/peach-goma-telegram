@@ -4,4 +4,4 @@ API example with Peach-goma illustration
 
 References
 
-[Telegram Bot Example] (https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/)
+[Telegram Bot Example](https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/)

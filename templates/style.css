@@ -1,19 +1,19 @@
 table {
-    table-layout: fixed;
-    width: 500px;
-    height: 100px;
-    font-weight: bolder;
-  }
-  
-  th,
-  td {
-    width: 100px;
-    overflow: hidden;
-    height: 100px;
-    text-align: center;
-    vertical-align: middle;
-  }
- 
-  img {
-     alt: "Image not available";
-  }
+  table-layout: fixed;
+  width: 500px;
+  height: 100px;
+  font-weight: bolder;
+}
+
+th,
+td {
+  width: 100px;
+  overflow: hidden;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+img {
+  alt: "Image not available";
+}
